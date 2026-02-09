@@ -2,10 +2,9 @@
 datasets/
 !datasets/food256/.gitkeep
 
-# Моделі
+# Моделі (крім основної моделі)
 models/*.pth
-models/*.h5
-!models/.gitkeep
+# models/*.h5  # Дозволяємо додавати h5 файли
 
 # Outputs
 outputs/
