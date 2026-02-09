@@ -10,6 +10,7 @@ models/*.pth
 ingredients/data/*.json
 ingredients/data/*.csv
 !ingredients/data/.gitkeep
+!ingredients/data/top_30_metrics.csv
 ingredients/models/*.pth
 !ingredients/models/.gitkeep
 !ingredients/models/ingredient_vocabulary_V4_FINAL.json
